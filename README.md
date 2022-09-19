@@ -1,4 +1,5 @@
 # Double-Light-Show-with-Photoresistor---SynchSM
+
 Embedded Systems & Arduino
 
 ## Video Demonstration
